@@ -13,3 +13,5 @@ these days I mostly do code review, which the models keep getting better at too.
 
 My thesis on coding: have fun, do things that interest you, and make cool things
 that people like, cool projects, cool analysis, and stuff.
+
+More at [mccomb.ca](https://mccomb.ca).
