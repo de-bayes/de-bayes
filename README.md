@@ -3,8 +3,8 @@
 Hey, I'm Ryan. I'm a Data Science Fellow at VoteHub, on the Data Science and Decision Desk.
 
 I'm not really a GitHub-as-a-substitute-for-social-media person, so most of my
-stuff, most of the work you can actually see, lives elsewhere, mostly at
-[VH](https://votehub.com) or at my website [mccomb.ca](https://mccomb.ca).
+stuff, albeit the work you can actually see, lives at [VH](https://votehub.com)
+or [mccomb.ca](https://mccomb.ca).
 
 How I got here: I grew up in the era of tab-complete coding, back when I didn't
 really use GitHub and just kept everything on my Mac. It's gotten a lot more
